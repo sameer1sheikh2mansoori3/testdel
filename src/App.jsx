@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Sameer Sheikh Mansoori",
   title: "Web developer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "sameersheikhmansoori@gmail.com",
+  gitHub: "sameer1sheikh2mansoori3",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "096melvoid",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
