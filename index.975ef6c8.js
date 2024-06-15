@@ -27089,13 +27089,13 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Sameer Sheikh Mansoori",
     title: "Web developer",
-    email: "alex@example.com",
-    gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "satyanadella",
+    email: "sameersheikhmansoori@gmail.com",
+    gitHub: "sameer1sheikh2mansoori3",
+    instagram: "",
+    linkedIn: "",
     medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    twitter: "096melvoid",
+    youTube: ""
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27182,12 +27182,12 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a CSE undergrad student studying at university institute of engineering and technology kanpur. I enjoy creating unique and simplistic web application in creative ways.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
+    "Web development",
     "User experience",
     "Inclusive design",
     "Focus group testing",
@@ -27198,7 +27198,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my development experience I continually look for new and better ways to make tech accessible by all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28756,24 +28756,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "My Personal Portfolio",
+        description: "A 3d website which demonstrate my development skills in frontend",
+        url: "https://portfolium.netlify.app/"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "AI helper",
+        description: "An project which we can use to get our queries similar to BARDAI",
+        url: "https://clone-gemini.vercel.app/"
     },
     {
-        title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        title: "Connector",
+        description: "Simply help people to talk and chat from a different region",
+        url: "https://6509bf7fde9fe8140e50d989--helpful-taiyaki-0cb4ac.netlify.app/"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Course Bundler",
+        description: "A place to sell your courses",
+        url: "https://glittery-sawine-303d9e.netlify.app/"
     }, 
 ];
 const Portfolio = ()=>{
