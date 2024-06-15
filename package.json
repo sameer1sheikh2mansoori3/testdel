@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sameer1sheikh2mansoori3.github.io/testdel",
+    "build-gh": "parcel build --public-url 'https://sameer1sheikh2mansoori3.github.io/testdel'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
